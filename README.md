@@ -1,4 +1,4 @@
-### Hi there 👋
+![Welcome!](https://media.giphy.com/media/GBTia9dgnuiPu/source.gif)
 
 <!--
 **Gabbell/gabbell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
